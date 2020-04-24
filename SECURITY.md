@@ -1,17 +1,10 @@
-# Security Policy
-
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+For ios 13.03 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
-
+For API anriod not available 
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
